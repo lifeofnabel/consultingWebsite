@@ -76,14 +76,13 @@
                 Aufgrund hoher Nachfrage können Sie hier Ihren Wunschtermin wählen, und wir rufen Sie zurück.
             </p>
             <div class="booking-tool">
-                <iframe
-                        src="https://icallback-git-master-lifeofnabels-projects.vercel.app/"
-                        width="100%"
-                        height="700"
-                        frameborder="0"
-                        allow="clipboard-write; fullscreen"
-                        loading="lazy"
-                ></iframe>
+                <button class="booking-button" onclick="window.open('https://icallback.vercel.app/', '_blank')">
+                    <span class="button-icon">📞</span>
+                    <span data-i18n="booking.button">Rückruftermin buchen</span>
+                </button>
+                <p class="booking-note" data-i18n="booking.note">
+                    Wir rufen Sie zur gewünschten Zeit zurück, um Ihr Anliegen zu besprechen.
+                </p>
             </div>
         </div>
     </section>

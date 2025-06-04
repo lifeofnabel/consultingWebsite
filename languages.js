@@ -21,7 +21,9 @@ window.translations = {
         "contact.email": "amer@amer.consulting",
         "contact.phone": "+49 176 72388134",
 
-        "footer.text": "© 2025 Amer Consulting – Ihre Daten sind sicher und DSGVO-konform."
+        "footer.text": "© 2025 Amer Consulting – Ihre Daten sind sicher und DSGVO-konform.",
+        "booking.button": "Rückruftermin buchen",
+        "booking.note": "Wir rufen Sie zur gewünschten Zeit zurück, um Ihr Anliegen zu besprechen."
     },
     ar: {
         "page.title": "شركة عامر للاستشارات",
@@ -44,6 +46,8 @@ window.translations = {
         "contact.email": "amer@amer.consulting",
         "contact.phone": "+49 176 72388134",
 
-        "footer.text": "© 2025 عامر للاستشارات – بياناتك مؤمنة ومتوافقة مع اللائحة العامة لحماية البيانات."
+        "footer.text": "© 2025 عامر للاستشارات – بياناتك مؤمنة ومتوافقة مع اللائحة العامة لحماية البيانات.",
+        "booking.button": "احجز موعد مكالمة",
+        "booking.note": "سنقوم بالاتصال بك في الوقت الذي تختاره لمناقشة طلبك."
     }
 };
